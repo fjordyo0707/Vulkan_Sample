@@ -167,6 +167,7 @@ set(EXAMPLES
 	vertexattributes
 	viewportarray
 	vulkanscene
+	myplayground
 )
 
 buildExamples()
